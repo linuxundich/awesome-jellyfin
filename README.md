@@ -7,6 +7,7 @@
 
 - [Plugins](#plugins)
 - [Themes](#themes)
+- [Clients](#clients)
 - [Other](#other)
 
 ## Plugins
@@ -23,6 +24,25 @@
 - [`JellyFlix` Jellyfin but Looks, Feels and Smells like Netflix](https://github.com/prayag17/JellyFlix)
 - [`JellySkin` Vibrante/minimal Jellyfin CSS using custom Icons and more](https://github.com/prayag17/JellySkin)
 - [`Ultrachromic` The final form, the true evolution of the chromic theme saga](https://github.com/CTalvio/Ultrachromic)
+
+### Clients
+
+#### Desktop
+
+ - [`Gelata` A Jellyfin client for the modern desktop](https://gitlab.com/bscubed/gelata)
+ - [`Jellyfin Media Player` Jellyfin Desktop Client based on Plex Media Player](https://github.com/jellyfin/jellyfin-media-player)
+ - [`Jellyfin MPV Shim` MPV Cast Client for Jellyfin](https://github.com/jellyfin/jellyfin-mpv-shim)
+
+#### Android
+
+- [`Boom` A sleek and modern music app for Jellyfin](https://github.com/henniaufmrenni/boum)
+- [`Finamp` A Jellyfin music client for mobile](https://github.com/jmshrv/finamp)
+- [`Gelli` Native Music Player for Jellyfin](https://github.com/dkanada/gelli)
+- [`Jellyfin Android` Android Client for Jellyfin](https://github.com/jellyfin/jellyfin-android)
+
+#### Android TV
+
+- [`Jellyfin Android TV` Android TV Client for Jellyfin](https://github.com/jellyfin/jellyfin-androidtv)
 
 ## Other
 
